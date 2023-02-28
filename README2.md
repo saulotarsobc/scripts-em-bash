@@ -25,8 +25,8 @@ Para executar os scripts deste repositório, você precisará de um ambiente Uni
 
 ## Como usar
 
-1. Clone este repositório em sua máquina usando o comando `git clone https://github.com/seu-usuario/repo-scripts-shell.git`.
-2. Acesse o diretório `repo-scripts-shell`.
+1. Clone este repositório em sua máquina usando o comando `git clone https://github.com/saulotarsobc/scripts-em-bash.git`.
+2. Acesse o diretório `scripts-em-bash`.
 3. Dê permissão de execução aos scripts usando o comando `chmod +x *.sh`.
 4. Execute o script desejado usando o comando `./nome-do-script.sh`.
 
